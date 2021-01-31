@@ -1,5 +1,5 @@
 # .github/workflows/chromatic.yml
-# name of our action
+# name of our actio
 name: 'Chromatic Deployment'
 # the event that will trigger the action
 on: push
